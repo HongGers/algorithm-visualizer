@@ -1,0 +1,20 @@
+{
+  "name": "algorithm-visualizer",
+  "version": "0.0.1",
+  "description": "a tool help visualizing an algorithm, tracking variables.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HongGers/algorithm-visualizer.git"
+  },
+  "author": "TomJeng <hongdd881001@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HongGers/algorithm-visualizer/issues"
+  },
+  "homepage": "https://github.com/HongGers/algorithm-visualizer#readme"
+}
